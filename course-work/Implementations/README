@@ -1,0 +1,13 @@
+Vladyslav Lytvynenko 2301321084
+CourseManagement Project with API, JWT and Postman
+
+How to use: 
+1) Compile the project.
+2) Open postman or postman agent (I used the last one).
+3) Send the request to create an account or you can login by this way:
+  {
+  "username": "test",
+  "password": "fmi"
+ }
+4) Copy jwt token and use it for every new request.
+5) U can see full functionality of my project in swagger documentation.
